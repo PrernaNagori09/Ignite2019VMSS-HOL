@@ -6,7 +6,7 @@
       "value": "Standard_DS1_v2"
     },
     "vmssName": {
-      "value": "FILL ME IN"
+      "value": "ScaleSet"
     },
     "instanceCount": {
       "value": 1
@@ -15,7 +15,7 @@
       "value": "adminuser"
     },
     "adminSshKey": {
-      "value": "FILL ME IN"
+      "value": "SSH public key"
     }
   }
 }
